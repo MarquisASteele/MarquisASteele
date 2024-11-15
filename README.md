@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marquis, an <a href="https://linkedin.com/in/Marquis">IT Professional</a>☺</h1>
+<h1>Hi, I'm Marquis, an <a href="https://linkedin.com/in/MarquisSteele">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
